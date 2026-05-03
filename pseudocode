@@ -5,3 +5,15 @@ while number <= 6:
     print(number)
     number += 1
 
+
+#Now we print numbers 10 down to 2 (step -2)
+number  = 10
+while number >= 2:
+    number -= 2
+    print(number) 
+
+
+
+
+
+

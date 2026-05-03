@@ -1,0 +1,15 @@
+# Now the same using pseudocode
+
+number = 6
+WHILE number <= 6
+    OUTPUT number
+    number = number + 1 
+ENDWHILE
+
+#Now we print numbers 10 down to 2 (step -2)
+
+number  = 10
+WHILE number >= 2
+    number = number - 2
+    OUTPUT number
+ENDWHILE

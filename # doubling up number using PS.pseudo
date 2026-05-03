@@ -1,0 +1,8 @@
+# doubling up number and stop when it exceeds 20 using pseudocode. 
+
+number = 1
+WHILE number <= 20:
+    number= number * 2
+    OUTPUT number
+ENDWHILE    
+

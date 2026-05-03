@@ -1,0 +1,7 @@
+# Number control using while loop
+
+number = 6
+while number <= 6:
+    print(number)
+    number += 1
+

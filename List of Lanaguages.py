@@ -16,7 +16,7 @@ elif select == "Hindi":
     print(languages[1])
 elif select == "Russian":
     print(languages[2])
-elif select == "Hindi":
+elif select == "Spanish":
     print(languages[3])
 else:
     print("Random Greeting")

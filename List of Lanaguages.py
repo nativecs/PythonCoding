@@ -1,4 +1,4 @@
-languages = ["Hi Welcome to Pythin Multilangauge", "हाय पायथन मल्टी लैंग्वेज में आपका स्वागत है", "Привет, добро пожаловать в многоязычный Питон", "Hola, bienvenido a Python Multi Language"]
+languages = ["Hi Welcome to Python Multilangauge", "हाय पायथन मल्टी लैंग्वेज में आपका स्वागत है", "Привет, добро пожаловать в многоязычный Питон", "Hola, bienvenido a Python Multi Language"]
 
 import random
 import time
